@@ -1,0 +1,162 @@
+@media (min-width: 300px) and (max-width: 768px){
+  /* ====navber start==== */
+  .nav-item .nav-link {
+	font-size: 14px;
+}
+.navbar-expand-lg .navbar-nav {
+	margin-left: 0px;
+}
+.navbar-expand-lg .navbar-nav {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.s_nev_search .nav_form {
+	padding: 6px 15px 5px 15px;
+	border-radius: 12px;
+}
+.s_nev_search input::placeholder{
+  font-size: 12px;
+}
+.s_nev_search i {
+	font-size: 14px;
+	top: 11px;
+}
+.form-control {
+	margin-left: 0px;
+}
+.nav_item {
+  margin-top: 2px;
+	margin-left: 0px;
+}
+.nav_item2{
+  display: none;
+}
+.nav_item {
+	margin-top: 10px;
+}
+/* =====Filter start here===== */
+#filter {
+	margin-top: 0px;
+}
+.part_1 h3 {
+	font-size: 26px;
+	margin-bottom: 10px;
+}
+.part_1_c {
+	margin-bottom: 8px;
+}
+.part_1_c span {
+	font-size: 12px;
+}
+.check {
+	height: 15px;
+	width: 15px;
+	border-radius: 5px;
+	line-height: 15px;
+	font-size: 12px;
+}
+.part_1_item p {
+	font-size: 15px;
+}
+.check1 {
+	height: 15px;
+	width: 15px;
+	border-radius: 4px;
+}
+.part_2_button a {
+	padding: 5px 10px;
+	border-radius: 10px;
+	font-size: 12px;
+}
+.part_1_item {
+	column-gap: 10px;
+	margin-bottom: 4px;
+}
+.part_1::after {
+	bottom: -15px;
+}
+.part_2 {
+	margin-top: 30px;
+}
+.part_2_r2 {
+	column-gap: 12px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+.star i {
+	font-size: 12px;
+}
+.part_2_button {
+	margin-bottom: 30px;
+}
+.part_2::after {
+	bottom: -17px;
+}
+.p3_price_h h4 {
+	font-size: 14px;
+}
+.p3_price_h {
+	column-gap: 83px;
+}
+.p3_price_h h4::after {
+	width: 90px;
+	bottom: -5px;
+}
+.p3_price_h h4 {
+	margin-bottom: 15px;
+}
+.p3_price_b a {
+	padding: 3px 7px;
+	font-size: 15px;;
+	border-radius: 8px;
+}
+.p3_price_b {
+	margin-bottom: 30px;
+}
+.part_3::after {
+	bottom: -18px;
+}
+.part_4_colors img{
+  width: 15%;
+}
+.part_4_colors {
+	margin-bottom: 30px;
+}
+.part_4::after {
+	bottom: -16px;
+}
+.part_1_item p {
+	font-size: 14px;
+}
+.filter_right_h p {
+	font-size: 13px;
+	margin-bottom: 6px;
+}
+.filter_right_h span {
+	font-size: 14px;
+	padding: 5px 10px;
+	border-radius: 12px;
+}
+.filter_right_h span strong {
+	font-size: 14px;
+}
+.filter_right_h span i {
+	margin-left: 8px;
+}
+.filter_right_h {
+	justify-content: start;
+	margin-bottom: 20px;
+}
+.filter_i {
+	justify-content: center;
+}
+.flash_item2 p {
+	font-size: 14px;
+}
+.flash_item2 h6 {
+	font-size: 18px;
+	margin-top: 10px;
+	margin-bottom: 14px;
+}
+  /* ================= */
+}

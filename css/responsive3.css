@@ -1,0 +1,264 @@
+@media (min-width: 300px) and (max-width: 768px){
+   /* ====navber start==== */
+  .nav-item .nav-link {
+	font-size: 14px;
+}
+.navbar-expand-lg .navbar-nav {
+	margin-left: 0px;
+}
+.navbar-expand-lg .navbar-nav {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.s_nev_search .nav_form {
+	padding: 6px 15px 5px 15px;
+	border-radius: 12px;
+}
+.s_nev_search input::placeholder{
+  font-size: 12px;
+}
+.s_nev_search i {
+	font-size: 14px;
+	top: 11px;
+}
+.form-control {
+	margin-left: 0px;
+}
+.nav_item {
+  margin-top: 2px;
+	margin-left: 0px;
+}
+.nav_item2{
+  display: none;
+}
+.nav_item {
+	margin-top: 10px;
+}
+  /* ===banner start here=== */
+ .banner_left img {
+	width: 100%;
+}
+#banner {
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+.banner_left_item {
+	margin-top: 19px;
+}
+.banner_right p {
+	font-size: 14px;
+	margin-top: 20px;
+}
+.banner_right h1 {
+	font-size: 28px;
+	margin: 3px 0;
+}
+.reatihg strong {
+	font-size: 14px;
+}
+.reatihg span {
+	font-size: 14px;
+}
+.reatihg i {
+	font-size: 14px;
+}
+.discount span {
+	font-size: 15px;
+	margin-top: 14px;
+}
+.banner_right h2 {
+	font-size: 34px;
+	margin-bottom: 23px;
+}
+.colors span {
+	font-size: 16px;
+}
+.colors_1 {
+	width: 34px;
+	height: 34px;
+	border-radius: 7px;
+}
+.colors_1 i {
+	font-size: 24px;
+}
+.colors_2 {
+	width: 34px;
+	height: 34px;
+	border-radius: 7px;
+}
+.colors_3 {
+	width: 34px;
+	height: 34px;
+	border-radius: 7px;
+}
+.size {
+	margin: 12px 0;
+  column-gap: 44px;
+}
+.size span {
+	font-size: 16px;
+}
+.size_item a {
+	padding: 7px 9px;
+	border-radius: 12px;
+	font-size: 15px;
+}
+.size_item {
+	column-gap: 7px;
+}
+.carts1 {
+	padding: 11px 15px;
+	border-radius: 15px;
+}
+.carts {
+	margin-top: 20px;
+  align-items: center;
+  column-gap: 8px;
+}
+.carts1 i {
+	margin-left: 11px;
+	font-size: 16px;
+}
+.carts .carts2 {
+	padding: 8px;
+	border-radius: 11px;
+}
+.carts .carts2 i {
+	font-size: 16px;
+}
+.description_heading .d_heading1 {
+	font-size: 18px;
+}
+.description_heading h3 {
+	font-size: 18px;
+}
+.description_heading::after {
+	bottom: -12px;
+}
+.description_heading .d_heading1::after {
+	bottom: -18px;
+}
+.description_heading {
+	margin-bottom: 35px;
+}
+.description_details .d_details {
+	margin-bottom: 8px;
+}
+.description_details p {
+	font-size: 14px;
+}
+.description_details strong {
+	font-size: 14px;
+	margin-bottom: 6px;
+	display: inline-block;
+}
+#description {
+	margin-bottom: 20px;
+}
+/* ==Related Product start here== */
+#products h2 {
+	font-size: 24px;
+	font-weight: 600;
+	line-height: normal;
+	color: #121212;
+}
+.products_item {
+	margin-top: 20px;
+	row-gap: 10px;
+}
+.flash_item2 p {
+	font-size: 13px;
+}
+.flash_item2 h6 {
+	font-size: 16px;
+	line-height: 0px;
+	margin-top: 19px;
+}
+.flash_reating strong{
+  font-size: 13px;
+  font-weight: 500;
+}
+#products {
+	margin-bottom: 20px;
+}
+/* ==Product Review start== */
+.review_heading h2 {
+	font-size: 26px;
+	margin-bottom: 20px;
+}
+.p1_left {
+	width: 140px;
+	height: 140px;
+	border: 8px solid #ffc540;
+	margin: 0;
+}
+.p1_left h3 {
+	font-size: 45px;
+}
+.p1_left p {
+	font-size: 11px;
+}
+.p1_right_sr {
+	margin-bottom: 20px;
+	margin-top: 9px;
+}
+.p1_right_sr i {
+	font-size: 18px;
+}
+.p1_right_bt a {
+	padding: 5px 10px;
+	border-radius: 12px;
+	font-size: 16px;
+}
+.p1_right_bt2 {
+	column-gap: 8px;
+	row-gap: 8px;
+}
+.p1_right_bt2 a {
+	padding: 5px 10px;
+	border-radius: 12px;
+	font-size: 16px;
+}
+.r_part1 {
+	margin-bottom: 50px;
+}
+.r_part1::after {
+	bottom: -25px;
+}
+.r_part2_1 {
+	margin-bottom: 10px;
+	column-gap: 13px;
+}
+.p1_name p {
+	font-size: 16px;
+	margin-bottom: 2px;
+}
+.r_part2_2 {
+	padding: 10px 14px 20px 22px;
+	margin-bottom: 8px;
+}
+.r_part2 {
+	margin-bottom: 40px;
+}
+.r_part2::after {
+	bottom: -23px;
+}
+.r_part3_item {
+	column-gap: 10px;
+}
+.r_part3_item a {
+	height: 36px;
+	width: 36px;
+}
+.r_part3_item a i {
+	font-size: 20px;
+}
+.r_part3_item span {
+	font-size: 24px;
+}
+#review {
+	margin-bottom: 20px;
+}
+/* ==Other Products start== */
+  /* ================================= */
+}

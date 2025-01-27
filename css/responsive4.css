@@ -1,0 +1,144 @@
+@media (min-width: 300px) and (max-width: 768px) {
+  /* ====navber start==== */
+  .nav-item .nav-link {
+    font-size: 14px;
+  }
+  .navbar-expand-lg .navbar-nav {
+    margin-left: 0px;
+  }
+  .navbar-expand-lg .navbar-nav {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .s_nev_search .nav_form {
+    padding: 6px 15px 5px 15px;
+    border-radius: 12px;
+  }
+  .s_nev_search input::placeholder {
+    font-size: 12px;
+  }
+  .s_nev_search i {
+    font-size: 14px;
+    top: 11px;
+  }
+  .form-control {
+    margin-left: 0px;
+  }
+  .nav_item {
+    margin-top: 2px;
+    margin-left: 0px;
+  }
+  .nav_item2 {
+    display: none;
+  }
+  .nav_item {
+    margin-top: 10px;
+  }
+/* ==Cart start here== */
+.cart_main {
+	margin-top: 4px;
+}
+.cart_left h1 {
+	font-size: 26px;
+	margin-bottom: 17px;
+}
+.cart_l_all_item {
+	padding: 8px 16px 8px 16px;
+	border-radius: 28px;
+	margin-bottom: 12px;
+	width: 100%;
+}
+.cart_none_check {
+	width: 18px;
+	height: 18px;
+	border-radius: 5px;
+}
+.cart_l_all_item1 span {
+	font-size: 14px;
+}
+.cart_l_main_item {
+	padding: 0 10px 10px 10px;
+	width: 100%;
+	border-radius: 22px;
+}
+.checkout_right {
+	width: 100%;
+  padding: 16px;
+}
+.check {
+	width: 18px;
+	height: 18px;
+	border-radius: 4px;
+}
+.check_item p {
+	font-size: 14px;
+}
+.check_item {
+	column-gap: 10px;
+	margin-top: 20px;
+	margin-bottom: 16px;
+}
+.content_item_inner {
+	column-gap: 10px;
+}
+.content_item_inner2 h4 {
+	font-size: 18px;
+	line-height: 20px;
+}
+.content_item {
+	flex-wrap: wrap;
+  row-gap: 7px;
+}
+.content_item_plas1 {
+	width: 25px;
+	height: 25px;
+}
+.content_item_plas i {
+	font-size: 16px;
+}
+.content_item_plas span {
+	font-size: 20px;
+}
+.content_item_plas2 {
+	width: 25px;
+	height: 25px;
+}
+.content_item_plas {
+	display: flex;
+	column-gap: 24px;
+}
+.cart_button a {
+	font-size: 17px;
+}
+.promo_code h5 {
+	font-size: 17px;
+}
+.promo_code {
+	padding: 12px 0px 12px 14px;
+	border-radius: 18px;
+	column-gap: 12px;
+	margin-bottom: 16px;
+}
+.checkout_right h6 {
+	font-size: 16px;
+}
+.promo_code_item1 span {
+	font-size: 14px;
+}
+.promo_code_item {
+	margin-top: 7px;
+	margin-bottom: 18px;
+}
+.promo_code_item::after {
+	bottom: -13px;
+}
+.total strong {
+	font-size: 14px;
+}
+.checkout_button a {
+	padding: 6px 6px 6px 16px;
+	border-radius: 13px;
+	font-size: 19px;
+}
+  /* ====================================== */
+}
